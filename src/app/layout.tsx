@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 
 export const metadata: Metadata = {
-  title: "FutureForge",
+  title: "Irfan BlogDev",
   description: "This is a blog website for Innovation in Technology",
   icons: {
     icon: "/humo.png",  

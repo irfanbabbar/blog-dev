@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "tittle": "How to Contribute to Open Source Projects",
+      "author": "TechSphere",
+      "content": "Open source projects provide an excellent opportunity to improve skills and be part of the technology community. This step-by-step guide is designed for beginners looking to start their contribution journey.",
+      "src": "/blog/bl-1.webp"
+    },
+    {
+      "id": "2",
+      "tittle": "The Future of Augmented Reality and Virtual Reality",
+      "author": "TechSphere",
+      "content": "The future of AR and VR technology is highly promising. With applications in education, healthcare, and entertainment, this article explores the evolution of these technologies and their potential impacts.",
+      "src": "/blog/bl-2.webp"
+    },
+    {
+      "id": "3",
+      "tittle": "Low-Code Platforms: The Future of Coding?",
+      "author": "TechSphere",
+      "content": "Low-code and no-code platforms are significantly impacting software development. These tools simplify software creation for both developers and non-developers. This article discusses their pros and cons in detail.",
+      "src": "/blog/bl-3.webp"
+    },
+    {
+      "id": "4",
+      "tittle": "The Role of 5G Technology in Smart Cities",
+      "author": "TechSphere",
+      "content": "5G technology is proving to be a game-changer for smart city infrastructure. High-speed connectivity and IoT device integration make smart cities more efficient and sustainable.",
+      "src": "/blog/bl-4.webp"
+    },
+    {
+      "id": "5",
+      "tittle": "Artificial Intelligence in Daily Life",
+      "author": "TechSphere",
+      "content": "AI is increasingly becoming part of our everyday lives, from virtual assistants to personalized recommendations. This article explores how AI is transforming industries and enhancing convenience.",
+      "src": "/blog/bl-5.webp"
+    },
+    {
+      "id": "6",
+      "tittle": "Blockchain: Revolutionizing Data Security",
+      "author": "TechSphere",
+      "content": "Blockchain technology ensures data transparency and security across various industries. This article highlights its applications in finance, healthcare, and beyond.",
+      "src": "/blog/bl-6.webp"
+    },
+    {
+      "id": "7",
+      "tittle": "The Evolution of Smart Wearables",
+      "author": "TechSphere",
+      "content": "Smart wearables like fitness trackers and smartwatches are evolving rapidly, offering features like health monitoring and real-time notifications. This article delves into their development and potential future innovations.",
+      "src": "/blog/bl-7.webp"
+    },
+    {
+      "id": "8",
+      "tittle": "The Impact of Cloud Computing on Businesses",
+      "author": "TechSphere",
+      "content": "Cloud computing is transforming how businesses store and access data. This article examines the benefits of cloud services, such as scalability, cost efficiency, and data accessibility.",
+      "src": "/blog/bl-8.webp"
+    },
+    {
+      "id": "9",
+      "tittle": "Cybersecurity Challenges in a Digital World",
+      "author": "TechSphere",
+      "content": "As technology advances, cybersecurity threats are becoming more sophisticated. This article discusses common challenges and strategies to protect against cyberattacks.",
+      "src": "/blog/bl-9.webp"
+    },
+    {
+      "id": "10",
+      "tittle": "Green Technology: Innovations for a Sustainable Future",
+      "author": "TechSphere",
+      "content": "Green technology focuses on environmentally friendly innovations like renewable energy and sustainable materials. This article explores how green tech is paving the way for a cleaner future.",
+      "src": "/blog/bl-10.webp"
+    }
+  ]
+  

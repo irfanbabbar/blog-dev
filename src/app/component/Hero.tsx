@@ -10,7 +10,7 @@ export default function Hero() {
   console.log(searchValue);
   return (
     <>
-      <section className="relative w-[1340px] h-[900px] pt-10">
+      <section className="relative w-full h-[900px] pt-10">
         <div className="absolute inset-0">
           <Image
             src="/hero-1-sec.webp"
